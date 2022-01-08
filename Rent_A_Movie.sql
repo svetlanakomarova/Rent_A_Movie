@@ -452,7 +452,7 @@ BEGIN
 END;
 
 ------------------------------------   
---b.	Show the movie’s which has least renting cost and highest renting cost?
+--b.	Show the movieÂ’s which has least renting cost and highest renting cost?
 
 SET SERVEROUTPUT ON;
 
@@ -748,21 +748,3 @@ END;
 COMMIT;                               
 
 --SELECT * FROM Fact_Rent;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
